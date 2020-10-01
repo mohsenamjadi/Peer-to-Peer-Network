@@ -1,0 +1,41 @@
+[{"id": "localhost59975", "ip": "localhost", "port": 59975, 
+    
+    "last_heard_of": 9, "sent_to_count": 1, 
+    
+    "recieved_from_count": 1, 
+    
+    "availability_time": "17.333333333333336%"}, 
+    
+    {"id": "localhost48927", "ip": "localhost", "port": 48927, 
+    
+        "last_heard_of": 15, "sent_to_count": 4, 
+        
+        "recieved_from_count": 3,
+        
+        "availability_time": "29.666666666666668%"}, 
+    
+    {"id": "localhost40201", "ip": "localhost", "port": 40201, 
+    
+        "last_heard_of": 19, "sent_to_count": 1,
+        
+        "recieved_from_count": 2, 
+        
+        "availability_time": "18.333333333333332%"},
+    
+    {"id": "localhost43825", "ip": "localhost", "port": 43825,
+    
+        "last_heard_of": 8, "sent_to_count": 12, 
+        
+        "recieved_from_count": 9, "availability_time": "41.0%"}, 
+    
+    {"id": "localhost40201", "ip": "localhost", "port": 40201, 
+    
+        "last_heard_of": 13, "sent_to_count": 4, 
+        
+        "recieved_from_count": 3, "availability_time": "8.666666666666668%"},
+    
+    {"id": "localhost42591", "ip": "localhost", "port": 42591, 
+        
+        "last_heard_of": 0, "sent_to_count": 0,
+        
+        "recieved_from_count": 1, "availability_time": "23.333333333333332%"}]

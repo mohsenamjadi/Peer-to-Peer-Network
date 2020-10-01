@@ -1,0 +1,1837 @@
+2020-09-30 19:47:35,729 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:47:35,734 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:47:35,745 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:47:35,745 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:47:35,766 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:47:35,766 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:47:35,791 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:35,791 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:47:35,792 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:35,807 DEBUG localhost59975 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:47:36,005 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:47:36,000 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:47:36,005 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:47:36,000 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:47:36,021 DEBUG localhost43825 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:47:36,062 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:47:36,052 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:47:36,083 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:47:36,052 DEBUG localhost48927 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:47:36,072 DEBUG localhost59975 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:47:36,062 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:47:36,119 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:47:36,216 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:47:36,129 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:47:36,257 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:47:36,216 DEBUG localhost40201 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:47:36,216 DEBUG localhost48927 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:47:36,155 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:47:36,217 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:47:36,191 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:47:36,293 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:47:36,303 DEBUG localhost59975 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:47:38,064 DEBUG localhost59975 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:47:36,410 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:47:36,431 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:47:38,105 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:47:37,475 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:47:38,197 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:47:37,510 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:47:37,612 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:47:38,028 DEBUG localhost40201 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:38,028 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:47:38,028 DEBUG localhost43825 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:47:36,395 DEBUG localhost40201 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:47:38,064 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:47:38,079 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:47:38,084 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:47:36,456 DEBUG localhost43825 shutdown
+2020-09-30 19:47:38,125 DEBUG localhost42591 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:47:37,485 DEBUG localhost33179 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:47:38,223 DEBUG localhost42591 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:47:38,253 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:47:38,253 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:47:38,263 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:47:38,263 DEBUG localhost59975 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:47:38,320 DEBUG localhost33179 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:38,386 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:47:38,402 DEBUG localhost59975 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:47:38,412 DEBUG localhost40201 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:47:38,422 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:47:38,489 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:47:38,565 DEBUG localhost42591 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:47:38,580 DEBUG localhost33179 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:47:39,502 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:47:40,587 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:47:40,597 DEBUG localhost40201 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:43,219 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:47:40,648 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:47:42,098 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:47:42,383 DEBUG localhost59975 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:47:43,148 DEBUG localhost42591 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:47:43,168 DEBUG localhost33179 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:47:43,178 DEBUG localhost48927 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:47:43,194 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:47:41,976 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:47:43,260 DEBUG localhost40201 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:43,311 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:47:44,228 DEBUG localhost48927 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:47:44,239 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:47:44,248 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:47:44,249 DEBUG localhost33179 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:45,715 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:47:44,270 DEBUG localhost40201 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:47:44,285 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:47:44,316 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:47:44,316 DEBUG localhost42591 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:47:46,568 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:47:44,326 DEBUG localhost48927 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:47:44,848 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:47:44,899 DEBUG localhost33179 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:47:45,679 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:47:44,259 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:47:46,837 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:47:45,776 DEBUG localhost40201 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:47:45,812 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:47:46,934 DEBUG localhost42591 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:47:46,496 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:47:44,848 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:47:46,583 DEBUG localhost42591 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:47:46,990 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:47:46,816 DEBUG localhost59975 shutdown
+2020-09-30 19:47:45,720 DEBUG localhost33179 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:47,021 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:47:46,863 DEBUG localhost42591 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:47:46,893 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:47:46,919 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:47:47,037 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:47:46,975 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:47:46,975 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:47:46,599 DEBUG localhost33179 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:47:47,006 DEBUG localhost42591 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:47:46,857 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:47:47,031 DEBUG localhost48927 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:47:47,037 DEBUG localhost33179 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:46,496 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:47:47,057 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:47,073 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:47:50,158 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:47:48,005 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:47:50,195 DEBUG localhost33179 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:47:49,155 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:47:49,186 DEBUG localhost59975 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:47:49,211 DEBUG localhost48927 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:47:49,287 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:47:49,374 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:47:49,394 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:47:47,083 DEBUG localhost33179 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:47:48,517 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:47:50,205 DEBUG localhost33179 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:47:50,205 DEBUG localhost40201 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:52,806 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:47:50,256 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:47:50,261 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:47:50,266 DEBUG localhost42591 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:47:50,282 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:47:51,300 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:47:52,324 DEBUG localhost33179 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:55,545 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:47:50,256 DEBUG localhost48927 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:47:52,897 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:47:55,087 DEBUG localhost40201 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:47:55,533 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:47:52,796 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:47:55,584 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:47:55,594 DEBUG localhost33179 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:56,867 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:47:56,735 DEBUG localhost40201 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:47:56,735 DEBUG localhost40201 shutdown
+2020-09-30 19:47:56,735 DEBUG localhost43825 is back online
+2020-09-30 19:47:56,765 DEBUG localhost42591 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:47:56,775 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:47:57,872 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:47:56,893 DEBUG localhost33179 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:57,878 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:47:57,842 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:47:55,828 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:47:56,939 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:47:57,894 DEBUG localhost42591 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:47:59,272 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:47:58,720 DEBUG localhost43825 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:47:59,211 DEBUG localhost33179 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:59,219 DEBUG localhost33179 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:47:59,272 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:47:58,710 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:47:59,364 DEBUG localhost48927 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:47:59,364 DEBUG localhost48927 deleted localhost42591 from its temporaryNeighbor
+2020-09-30 19:47:59,308 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:47:59,395 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:47:59,323 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:47:59,293 DEBUG localhost43825 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:47:59,395 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:47:59,287 DEBUG localhost42591 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:47:59,430 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:47:59,451 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:47:59,461 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:47:59,472 DEBUG localhost43825 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:47:59,564 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:48:00,283 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:48:00,298 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:48:00,314 DEBUG localhost42591 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:48:01,286 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:48:01,337 DEBUG localhost43825 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:48:01,357 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:48:02,366 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:04,996 DEBUG localhost48927 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:48:04,996 DEBUG localhost48927 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:48:04,169 DEBUG localhost42591 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:48:04,178 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:05,119 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:48:04,215 DEBUG localhost33179 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:48:04,986 DEBUG localhost33179 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:48:03,369 DEBUG localhost42591 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:48:03,430 DEBUG localhost42591 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:48:05,007 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:05,017 DEBUG localhost43825 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:48:04,185 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:48:05,129 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:48:05,788 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:48:05,935 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:48:06,963 DEBUG localhost59975 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:48:07,213 DEBUG localhost59975 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:48:07,213 DEBUG localhost59975 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:48:07,025 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:48:07,039 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:07,075 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:07,336 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:48:06,963 DEBUG localhost33179 shutdown
+2020-09-30 19:48:06,964 DEBUG localhost59975 is back online
+2020-09-30 19:48:07,265 DEBUG localhost59975 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:48:07,183 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:48:08,050 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:48:07,352 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:08,011 DEBUG localhost42591 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:48:07,336 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:48:08,065 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:09,226 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:48:09,155 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:48:08,106 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:48:09,232 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:09,344 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:48:09,252 DEBUG localhost42591 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:48:09,283 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:48:09,288 DEBUG localhost43825 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:48:09,329 DEBUG localhost48927 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:48:09,252 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:48:11,620 DEBUG localhost43825 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:48:09,435 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:11,676 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:48:11,620 DEBUG localhost42591 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:48:11,645 DEBUG localhost43825 deleted localhost48927 from its temporaryNeighbor
+2020-09-30 19:48:09,410 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:11,774 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:48:11,717 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:48:11,784 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:48:11,717 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:48:11,717 DEBUG localhost43825 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:48:11,794 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:13,404 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:48:13,379 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:13,409 DEBUG localhost48927 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:48:13,444 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:48:13,495 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:13,982 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:48:13,992 DEBUG localhost43825 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:48:15,512 DEBUG localhost43825 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:48:14,904 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:48:15,548 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:48:15,548 DEBUG localhost43825 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:48:15,563 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:48:15,563 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:48:15,594 DEBUG localhost48927 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:48:15,594 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:48:15,594 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:48:15,594 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:48:15,595 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:15,600 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:48:15,600 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:15,600 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:48:15,600 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:48:15,600 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:15,702 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:48:15,631 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:15,636 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:15,600 DEBUG localhost42591 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:48:15,703 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:48:15,713 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:48:16,483 DEBUG localhost33179 shutdown
+2020-09-30 19:48:16,497 DEBUG localhost42591 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:48:16,527 DEBUG localhost42591 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:16,573 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:17,638 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:17,054 DEBUG localhost40201 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:48:17,602 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:17,632 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:48:17,638 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:48:17,024 DEBUG localhost40201 is back online
+2020-09-30 19:48:17,643 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:48:18,008 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:18,577 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:48:18,023 DEBUG localhost59975 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:48:18,053 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:48:18,069 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:48:18,424 DEBUG localhost43825 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:48:21,491 DEBUG localhost43825 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:48:18,485 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:18,566 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:48:18,023 DEBUG localhost40201 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:48:18,597 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:19,418 DEBUG localhost59975 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:48:19,454 DEBUG localhost48927 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:48:20,092 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:48:21,299 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:48:21,309 DEBUG localhost43825 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:48:18,475 DEBUG localhost42591 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:24,483 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:48:21,547 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:48:21,547 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:48:22,580 DEBUG localhost42591 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:48:22,825 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:48:22,876 DEBUG localhost40201 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:48:22,901 DEBUG localhost59975 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:48:23,672 DEBUG localhost42591 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:48:24,483 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:48:21,491 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:24,727 DEBUG localhost42591 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:48:24,737 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:25,031 DEBUG localhost40201 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:48:26,267 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:48:27,371 DEBUG localhost43825 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:48:27,371 DEBUG localhost33179 is back online
+2020-09-30 19:48:27,371 DEBUG localhost33179 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:48:27,371 DEBUG localhost33179 shutdown
+2020-09-30 19:48:27,883 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:48:27,883 DEBUG localhost33179 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:48:28,015 DEBUG localhost43825 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:48:28,734 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:48:28,817 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:48:29,005 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:48:29,299 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:48:29,458 DEBUG localhost59975 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:48:33,662 DEBUG localhost59975 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:48:33,667 DEBUG localhost59975 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:48:31,278 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:48:31,278 DEBUG localhost33179 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:48:31,293 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:48:31,319 DEBUG localhost42591 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:48:31,334 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:34,477 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:48:31,421 DEBUG localhost59975 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:48:31,492 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:48:35,582 DEBUG localhost40201 deleted localhost48927 from its temporaryNeighbor
+2020-09-30 19:48:33,049 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:48:33,632 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:33,657 DEBUG localhost42591 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:48:30,036 DEBUG localhost40201 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:48:30,112 DEBUG localhost43825 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:48:33,698 DEBUG localhost33179 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:48:34,458 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:48:31,401 DEBUG localhost43825 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:48:34,791 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:48:31,727 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:35,699 DEBUG localhost59975 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:48:35,719 DEBUG localhost59975 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:48:35,862 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:48:36,187 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:48:36,948 DEBUG localhost42591 shutdown
+2020-09-30 19:48:36,989 DEBUG localhost43825 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:48:37,146 DEBUG localhost48927 deleted localhost40201 from its temporaryNeighbor
+2020-09-30 19:48:37,197 DEBUG localhost43825 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:48:37,228 DEBUG localhost42591 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:48:37,289 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:48:37,345 DEBUG localhost33179 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:48:37,375 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:48:37,665 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:48:37,781 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:38,097 DEBUG localhost40201 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:48:38,107 DEBUG localhost33179 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:48:38,117 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:48:38,127 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:38,168 DEBUG localhost40201 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:48:38,188 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:38,975 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:38,995 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:48:39,011 DEBUG localhost40201 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:48:39,284 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:48:39,508 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:48:40,197 DEBUG localhost59975 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:48:40,223 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:48:40,248 DEBUG localhost43825 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:48:40,836 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:48:40,999 DEBUG localhost40201 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:48:41,035 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:45,721 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:48:42,368 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:43,381 DEBUG localhost33179 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:48:43,406 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:48:43,421 DEBUG localhost43825 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:48:45,610 DEBUG localhost40201 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:48:42,332 DEBUG localhost59975 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:47,362 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:48:45,782 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:48:46,512 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:48:47,052 DEBUG localhost33179 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:48:47,244 DEBUG localhost33179 shutdown
+2020-09-30 19:48:47,255 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:47,520 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:48:45,721 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:48:47,388 DEBUG localhost33179 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:48:47,647 DEBUG localhost33179 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:48:47,648 DEBUG localhost33179 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:48:47,474 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:48:47,484 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:47,668 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:48:47,494 DEBUG localhost40201 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:48:47,306 DEBUG localhost33179 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:48:47,709 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:48:47,576 DEBUG localhost48927 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:48:47,408 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:47,775 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:48:47,653 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:47,801 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:47,658 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:48:47,679 DEBUG localhost40201 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:48:47,520 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:47,893 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:48:47,786 DEBUG localhost59975 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:48:47,904 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:48:47,801 DEBUG localhost48927 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:48:47,806 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:47,883 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:47,940 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:48:47,899 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:47,965 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:48:47,489 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:48:47,924 DEBUG localhost59975 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:48:47,418 DEBUG localhost59975 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:48:47,924 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:47,991 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:48,104 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:48:48,006 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:48,006 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:48:48,130 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:48,201 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:48,145 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:48,232 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:48:48,232 DEBUG localhost59975 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:48,324 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:48:48,263 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:48,360 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:48,345 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:48,903 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:48:48,165 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:48:48,350 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:48,949 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:49,127 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:48:49,090 DEBUG localhost59975 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:48:49,137 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:48:49,096 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:49,163 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:49,163 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:49,194 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:48:49,106 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:48:49,199 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:49,296 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:48:49,276 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:49,296 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:49,250 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:49,506 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:48:49,357 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:49,567 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:48:49,393 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:49,332 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:48:49,684 DEBUG localhost59975 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:48:49,368 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:48:49,633 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:49,654 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:49,803 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:48:49,730 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:48:49,760 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:49,783 DEBUG localhost59975 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:48:49,829 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:48:49,783 DEBUG localhost48927 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:48:49,803 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:49,552 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:49,829 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:48:49,830 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:50,088 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:48:50,089 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:48:50,129 DEBUG localhost40201 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:48:50,129 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:51,169 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:48:51,046 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:48:51,087 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:48:51,112 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:51,220 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:48:50,144 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:48:51,200 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:48:51,215 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:51,261 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:51,246 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:51,297 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:48:51,287 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:51,333 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:48:51,158 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:48:51,358 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:48:51,333 DEBUG localhost59975 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:48:51,573 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:48:51,333 DEBUG localhost48927 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:48:51,287 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:48:51,338 DEBUG localhost59975 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:48:51,327 DEBUG localhost40201 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:48:51,364 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:51,722 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:48:51,410 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:51,737 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:48:51,665 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:48:51,681 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:48:51,722 DEBUG localhost43825 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:48:51,333 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:48:51,732 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:53,276 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:48:51,879 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:48:51,885 DEBUG localhost40201 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:48:52,893 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:53,328 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:48:51,614 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:53,328 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:48:53,328 DEBUG localhost48927 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:48:53,348 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:53,348 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:48:55,807 DEBUG localhost43825 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:48:54,174 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:48:54,180 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:55,710 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:55,771 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:48:54,124 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:48:55,832 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:55,919 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:48:55,858 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:48:55,863 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:48:55,868 DEBUG localhost59975 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:48:55,878 DEBUG localhost40201 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:48:55,904 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:56,104 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:55,832 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:48:55,930 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:57,171 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:48:55,961 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:48:55,919 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:57,227 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:48:57,158 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:48:55,945 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:48:57,181 DEBUG localhost40201 shutdown
+2020-09-30 19:48:57,181 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:48:57,196 DEBUG localhost42591 is back online
+2020-09-30 19:48:57,196 DEBUG localhost42591 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:48:57,284 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:48:56,104 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:57,309 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:48:57,243 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:48:57,253 DEBUG localhost59975 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:48:57,335 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:48:57,196 DEBUG localhost43825 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:48:57,289 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:48:57,232 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:48:57,315 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:48:57,284 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:48:57,340 DEBUG localhost48927 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:48:57,376 DEBUG localhost40201 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:48:57,376 DEBUG localhost42591 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:48:57,391 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:49:00,148 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:48:57,401 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:49:00,204 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:48:57,468 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:48:58,547 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:48:59,560 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:49:00,137 DEBUG localhost42591 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:49:00,148 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:48:57,417 DEBUG localhost43825 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:49:00,148 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:49:01,391 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:48:57,452 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:00,326 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:49:01,253 DEBUG localhost48927 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:49:01,294 DEBUG localhost42591 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:49:01,381 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:49:00,316 DEBUG localhost59975 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:02,247 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:49:02,324 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:49:02,334 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:49:02,345 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:49:03,252 DEBUG localhost42591 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:49:03,287 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:49:03,292 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:49:03,293 DEBUG localhost59975 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:49:03,416 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:49:03,498 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:49:04,623 DEBUG localhost43825 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:49:04,795 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:49:06,251 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:49:07,634 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:49:07,642 DEBUG localhost42591 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:49:07,673 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:49:07,678 DEBUG localhost33179 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:49:07,812 DEBUG localhost33179 is back online
+2020-09-30 19:49:07,846 DEBUG localhost59975 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:49:07,856 DEBUG localhost43825 deleted localhost42591 from its temporaryNeighbor
+2020-09-30 19:49:07,882 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:49:07,887 DEBUG localhost33179 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:49:09,305 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:09,888 DEBUG localhost59975 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:49:09,993 DEBUG localhost59975 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:10,812 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:49:10,039 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:49:10,151 DEBUG localhost33179 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:49:10,232 DEBUG localhost33179 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:49:10,658 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:49:10,146 DEBUG localhost48927 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:49:12,267 DEBUG localhost48927 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:49:12,267 DEBUG localhost48927 deleted localhost40201 from its temporaryNeighbor
+2020-09-30 19:49:12,298 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:12,201 DEBUG localhost42591 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:49:12,324 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:49:12,216 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:49:10,827 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:49:10,827 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:49:12,277 DEBUG localhost42591 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:49:10,848 DEBUG localhost42591 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:49:12,298 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:49:12,318 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:49:12,216 DEBUG localhost33179 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:49:12,344 DEBUG localhost43825 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:49:12,415 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:49:12,425 DEBUG localhost43825 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:49:13,028 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:49:14,505 DEBUG localhost59975 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:49:14,138 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:49:14,300 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:14,611 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:49:14,326 DEBUG localhost33179 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:49:14,474 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:49:14,484 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:49:13,059 DEBUG localhost43825 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:49:14,545 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:49:14,555 DEBUG localhost42591 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:49:14,306 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:49:15,691 DEBUG localhost59975 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:18,767 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:49:15,849 DEBUG localhost33179 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:49:16,862 DEBUG localhost43825 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:49:17,566 DEBUG localhost40201 is back online
+2020-09-30 19:49:18,746 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:49:15,843 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:49:18,975 DEBUG localhost59975 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:49:19,026 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:49:19,041 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:49:19,244 DEBUG localhost33179 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:49:19,321 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:49:22,597 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:49:22,297 DEBUG localhost42591 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:49:22,760 DEBUG localhost42591 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:49:22,505 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:49:22,505 DEBUG localhost43825 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:49:22,566 DEBUG localhost43825 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:49:25,493 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:49:22,699 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:49:22,312 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:49:26,613 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:49:24,888 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:49:24,932 DEBUG localhost43825 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:49:24,942 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:49:25,102 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:49:20,620 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:49:26,587 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:49:24,179 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:49:33,260 DEBUG localhost40201 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:49:27,783 DEBUG localhost42591 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:49:33,986 DEBUG localhost42591 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:49:33,986 DEBUG localhost42591 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:49:29,369 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:49:34,001 DEBUG localhost33179 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:49:34,001 DEBUG localhost33179 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:49:34,001 DEBUG localhost33179 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:49:32,303 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:49:33,260 DEBUG localhost40201 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:49:33,327 DEBUG localhost40201 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:49:33,357 DEBUG localhost48927 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:49:33,975 DEBUG localhost48927 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:49:27,839 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:49:30,464 DEBUG localhost43825 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:49:30,494 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:49:36,354 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:49:33,246 DEBUG localhost42591 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:49:26,638 DEBUG localhost59975 shutdown
+2020-09-30 19:49:34,016 DEBUG localhost59975 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:49:34,042 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:49:36,943 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:49:35,050 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:49:35,050 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:49:35,056 DEBUG localhost48927 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:49:35,056 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:49:38,012 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:49:36,297 DEBUG localhost42591 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:49:36,297 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:49:34,001 DEBUG localhost33179 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:49:36,405 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:38,827 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:49:34,103 DEBUG localhost43825 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:49:36,963 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:49:37,977 DEBUG localhost40201 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:49:38,878 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:49:38,094 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:49:38,242 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:49:39,051 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:49:38,758 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:49:38,766 DEBUG localhost33179 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:49:39,077 DEBUG localhost33179 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:49:36,410 DEBUG localhost42591 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:49:38,832 DEBUG localhost43825 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:49:38,858 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:49:38,863 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:49:40,317 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:49:38,889 DEBUG localhost40201 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:49:41,280 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:49:39,062 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:49:39,062 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:49:41,311 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:49:38,797 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:49:41,352 DEBUG localhost43825 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:49:35,081 DEBUG localhost48927 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:49:41,280 DEBUG localhost40201 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:49:41,448 DEBUG localhost40201 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:49:38,242 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:49:41,296 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:49:39,275 DEBUG localhost42591 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:49:41,316 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:42,366 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:49:40,307 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:49:41,433 DEBUG localhost48927 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:49:41,443 DEBUG localhost48927 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:49:41,280 DEBUG localhost33179 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:49:41,459 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:49:41,489 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:49:41,500 DEBUG localhost42591 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:49:44,732 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:49:41,347 DEBUG localhost33179 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:49:42,387 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:49:43,126 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:49:43,515 DEBUG localhost42591 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:49:43,546 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:49:45,742 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:49:43,551 DEBUG localhost40201 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:49:43,571 DEBUG localhost48927 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:49:44,559 DEBUG localhost33179 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:49:44,692 DEBUG localhost40201 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:46,817 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:49:44,743 DEBUG localhost42591 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:49:46,868 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:49:44,779 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:49:45,716 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:43,546 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:49:45,752 DEBUG localhost42591 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:49:45,773 DEBUG localhost40201 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:49:45,783 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:49:47,053 DEBUG localhost42591 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:49:46,786 DEBUG localhost42591 shutdown
+2020-09-30 19:49:46,786 DEBUG localhost43825 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:49:41,525 DEBUG localhost43825 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:49:47,140 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:49:44,753 DEBUG localhost33179 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:49:46,976 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:49:45,798 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:47,222 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:49:47,160 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:47,232 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:49:47,180 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:49:47,201 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:46,853 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:49:47,314 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:49:47,170 DEBUG localhost40201 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:49:47,243 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:49:47,243 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:47,365 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:49:47,232 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:47,381 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:49:47,263 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:49:47,391 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:47,437 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:48,439 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:49:48,028 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:49:48,043 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:47,954 DEBUG localhost59975 is back online
+2020-09-30 19:49:48,884 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:49:48,905 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:49:49,255 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:49:49,275 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:50,300 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:49:49,964 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:49:50,336 DEBUG localhost48927 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:49:49,979 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:49:50,000 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:50,000 DEBUG localhost43825 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:49:50,294 DEBUG localhost43825 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:49:49,290 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:49:49,970 DEBUG localhost48927 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:49:50,371 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:52,256 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:49:50,423 DEBUG localhost33179 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:49:50,529 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:49:50,529 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:50,534 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:49:51,421 DEBUG localhost43825 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:49:50,417 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:49:52,277 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:52,287 DEBUG localhost43825 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:49:53,011 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:49:53,022 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:49:54,726 DEBUG localhost40201 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:49:54,726 DEBUG localhost40201 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:49:53,768 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:54,756 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:49:54,655 DEBUG localhost43825 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:49:53,032 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:49:53,865 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:49:53,870 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:49:54,797 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:56,024 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:49:56,023 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:49:56,095 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:56,100 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:49:56,115 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:49:56,125 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:49:56,125 DEBUG localhost33179 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:49:56,167 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:56,167 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:49:56,187 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:56,187 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:49:56,192 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:56,304 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:49:56,289 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:56,391 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:49:56,391 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:56,421 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:49:56,488 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:49:57,030 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:49:57,035 DEBUG localhost40201 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:49:57,126 DEBUG localhost48927 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:49:57,137 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:49:58,120 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:49:58,938 DEBUG localhost40201 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:49:59,141 DEBUG localhost59975 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:49:59,223 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:49:59,233 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:50:01,478 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:49:59,421 DEBUG localhost59975 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:50:00,379 DEBUG localhost33179 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:50:00,429 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:50:02,336 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:50:00,989 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:50:00,999 DEBUG localhost40201 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:50:01,015 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:50:02,773 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:50:01,040 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:50:02,783 DEBUG localhost59975 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:49:59,299 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:50:01,494 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:50:01,601 DEBUG localhost59975 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:50:00,963 DEBUG localhost48927 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:50:02,402 DEBUG localhost33179 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:50:02,625 DEBUG localhost40201 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:50:02,630 DEBUG localhost40201 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:01,020 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:50:02,778 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:50:01,426 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:50:02,946 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:50:05,545 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:50:05,561 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:50:05,561 DEBUG localhost59975 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:50:05,601 DEBUG localhost48927 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:50:05,622 DEBUG localhost33179 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:50:06,550 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:50:07,263 DEBUG localhost42591 is back online
+2020-09-30 19:50:07,268 DEBUG localhost42591 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:50:07,273 DEBUG localhost59975 shutdown
+2020-09-30 19:50:07,329 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:50:07,329 DEBUG localhost42591 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:07,538 DEBUG localhost33179 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:50:07,554 DEBUG localhost40201 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:50:07,554 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:50:07,589 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:50:07,788 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:50:08,200 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:08,205 DEBUG localhost42591 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:50:08,297 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:50:08,298 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:50:08,369 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:50:09,549 DEBUG localhost43825 deleted localhost40201 from its temporaryNeighbor
+2020-09-30 19:50:09,595 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:50:09,595 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:50:09,600 DEBUG localhost40201 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:50:09,636 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:50:09,697 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:50:09,991 DEBUG localhost42591 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:50:10,300 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:50:10,417 DEBUG localhost33179 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:50:10,438 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:10,484 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:12,458 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:50:10,494 DEBUG localhost48927 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:50:10,687 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:50:10,794 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:11,027 DEBUG localhost40201 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:50:11,125 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:50:15,658 DEBUG localhost33179 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:50:10,560 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:50:12,469 DEBUG localhost48927 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:50:13,335 DEBUG localhost40201 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:50:15,744 DEBUG localhost40201 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:50:15,750 DEBUG localhost40201 deleted localhost33179 from its temporaryNeighbor
+2020-09-30 19:50:14,583 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:15,811 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:50:12,437 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:50:13,825 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:50:15,877 DEBUG localhost48927 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:50:15,755 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:50:14,614 DEBUG localhost43825 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:50:15,816 DEBUG localhost33179 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:50:15,867 DEBUG localhost43825 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:17,296 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:50:14,573 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:50:15,877 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:17,905 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:50:16,186 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:17,920 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:50:16,196 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:50:16,232 DEBUG localhost33179 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:50:17,296 DEBUG localhost42591 shutdown
+2020-09-30 19:50:15,867 DEBUG localhost48927 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:50:17,874 DEBUG localhost43825 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:17,874 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:50:19,131 DEBUG localhost48927 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:50:17,895 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:50:19,177 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:50:17,910 DEBUG localhost40201 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:50:19,213 DEBUG localhost40201 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:50:17,925 DEBUG localhost33179 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:50:19,223 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:50:18,255 DEBUG localhost33179 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:50:19,111 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:50:17,890 DEBUG localhost33179 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:50:16,140 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:50:19,197 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:50:20,237 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:50:17,926 DEBUG localhost43825 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:50:19,279 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:20,319 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:50:19,325 DEBUG localhost43825 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:19,376 DEBUG localhost42591 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:50:19,376 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:50:20,227 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:50:16,217 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:50:20,457 DEBUG localhost43825 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:50:19,289 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:50:20,380 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:20,395 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:50:20,457 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:50:20,626 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:50:20,473 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:50:20,488 DEBUG localhost40201 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:50:20,498 DEBUG localhost48927 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:50:20,513 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:50:20,549 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:50:20,606 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:20,318 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:20,647 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:20,740 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:20,765 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:50:20,796 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:50:20,817 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:50:20,853 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:50:21,017 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:21,017 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:50:21,058 DEBUG localhost48927 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:50:21,109 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:21,109 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:50:21,155 DEBUG localhost48927 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:50:21,165 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:21,175 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:50:21,430 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:50:21,222 DEBUG localhost48927 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:50:21,222 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:22,246 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:50:21,191 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:22,313 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:50:21,466 DEBUG localhost40201 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:50:22,226 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:50:21,414 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:50:22,272 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:22,405 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:50:22,348 DEBUG localhost48927 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:50:21,435 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:22,415 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:50:22,415 DEBUG localhost48927 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:22,436 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:50:22,426 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:22,446 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:50:22,441 DEBUG localhost43825 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:22,548 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:50:22,462 DEBUG localhost43825 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:50:22,462 DEBUG localhost43825 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:50:22,492 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:22,921 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:50:22,441 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:22,579 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:50:22,873 DEBUG localhost40201 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:50:22,880 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:50:22,564 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:22,931 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:22,931 DEBUG localhost40201 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:23,860 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:50:22,972 DEBUG localhost48927 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:50:22,987 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:50:23,023 DEBUG localhost33179 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:50:23,038 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:50:23,120 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:50:23,130 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:50:23,748 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:50:23,748 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:50:23,748 DEBUG localhost43825 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:50:22,951 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:50:23,890 DEBUG localhost40201 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:24,752 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:24,803 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:25,811 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:50:25,882 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:50:26,470 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:50:26,490 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:50:26,526 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:50:26,755 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:50:26,786 DEBUG localhost59975 shutdown
+2020-09-30 19:50:26,806 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:50:26,842 DEBUG localhost40201 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:50:26,842 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:50:26,862 DEBUG localhost43825 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:50:27,042 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:27,092 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:27,757 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:50:27,204 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:50:27,711 DEBUG localhost59975 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:50:27,717 DEBUG localhost59975 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:27,865 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:50:27,097 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:50:27,803 DEBUG localhost59975 is back online
+2020-09-30 19:50:27,814 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:27,829 DEBUG localhost59975 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:50:27,829 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:50:27,752 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:50:27,977 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:50:28,053 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:28,744 DEBUG localhost59975 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:50:28,815 DEBUG localhost33179 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:50:28,872 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:50:29,170 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:29,181 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:50:29,237 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:29,247 DEBUG localhost33179 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:50:29,313 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:50:29,328 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:50:29,358 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:29,425 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:50:29,536 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:50:29,654 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:50:29,842 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:50:29,898 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:50:29,949 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:50:29,954 DEBUG localhost40201 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:30,046 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:30,483 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:50:30,086 DEBUG localhost48927 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:50:30,087 DEBUG localhost40201 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:50:30,097 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:50:30,285 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:50:30,046 DEBUG localhost43825 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:50:30,529 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:30,697 DEBUG localhost33179 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:50:31,723 DEBUG localhost40201 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:50:31,758 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:50:31,860 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:50:32,483 DEBUG localhost40201 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:50:32,559 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:50:32,571 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:50:32,600 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:50:32,692 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:32,723 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:50:32,861 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:50:32,861 DEBUG localhost48927 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:50:33,914 DEBUG localhost48927 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:50:33,859 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:50:32,861 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:34,042 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:50:34,072 DEBUG localhost59975 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:50:34,108 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:50:34,129 DEBUG localhost43825 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:50:34,256 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:50:34,292 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:34,292 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:50:34,464 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:50:34,591 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:50:34,763 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:50:34,769 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:50:34,902 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:50:35,013 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:50:35,064 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:50:35,075 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:50:35,339 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:50:35,370 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:50:35,405 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:50:35,695 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:50:35,771 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:50:36,766 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:50:36,929 DEBUG localhost59975 shutdown
+2020-09-30 19:50:37,238 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:50:37,254 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:50:37,737 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:50:37,753 DEBUG localhost42591 is back online
+2020-09-30 19:50:37,865 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:50:37,911 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:50:38,093 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:50:38,144 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:50:38,282 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:50:38,287 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:50:38,292 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:50:38,444 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:50:38,444 DEBUG localhost33179 deleted localhost40201 from its temporaryNeighbor
+2020-09-30 19:50:39,871 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:50:39,915 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:50:39,921 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:50:39,956 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:50:40,514 DEBUG localhost42591 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:50:40,530 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:50:40,535 DEBUG localhost42591 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:50:40,540 DEBUG localhost42591 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:50:40,591 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:50:40,606 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:50:40,642 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:50:40,688 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:50:40,688 DEBUG localhost42591 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:50:40,830 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:50:40,830 DEBUG localhost48927 deleted localhost33179 from its temporaryNeighbor
+2020-09-30 19:50:41,019 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:50:42,009 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:50:42,030 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:50:42,030 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:50:42,386 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:50:42,478 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:50:42,483 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:50:42,559 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:50:42,995 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:50:43,249 DEBUG localhost40201 deleted localhost43825 from its temporaryNeighbor
+2020-09-30 19:50:43,630 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:50:43,644 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:50:43,751 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:50:43,813 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:50:43,935 DEBUG localhost43825 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:50:45,130 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:50:45,571 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:50:45,780 DEBUG localhost42591 deleted localhost40201 from its temporaryNeighbor
+2020-09-30 19:50:45,922 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:50:46,444 DEBUG localhost43825 deleted localhost40201 from its temporaryNeighbor
+2020-09-30 19:50:46,805 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:50:47,079 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:50:47,140 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:50:47,657 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:50:49,144 DEBUG localhost42591 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:50:49,144 DEBUG localhost42591 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:50:49,144 DEBUG localhost42591 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:50:49,144 DEBUG localhost42591 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:50:49,144 DEBUG localhost42591 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:50:49,144 DEBUG localhost42591 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:50:49,155 DEBUG localhost42591 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:50:49,155 DEBUG localhost42591 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:50:49,185 DEBUG localhost48927 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:50:49,261 DEBUG localhost42591 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:49,267 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:50:49,272 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:50:49,272 DEBUG localhost43825 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:50:49,399 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:50:49,420 DEBUG localhost42591 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:49,420 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:50:50,038 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:50:50,069 DEBUG localhost42591 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:50,069 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:50:50,100 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:50,100 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:50:50,120 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:50:50,120 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:50,120 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:50:50,136 DEBUG localhost43825 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:50:50,181 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:50:50,212 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:50:50,232 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:50,349 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:50,379 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:50:50,847 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:50:50,968 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:50:51,299 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:50:51,299 DEBUG localhost42591 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:50:51,310 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:50:51,421 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:50:51,523 DEBUG localhost42591 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:50:51,827 DEBUG localhost33179 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:50:52,278 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:50:52,957 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:50:53,268 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:50:53,279 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:50:54,155 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:50:55,996 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:50:56,254 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:50:56,279 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:50:56,488 DEBUG localhost40201 shutdown
+2020-09-30 19:50:56,645 DEBUG localhost42591 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:50:56,787 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:50:57,087 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:50:57,472 DEBUG localhost59975 is back online
+2020-09-30 19:50:57,934 DEBUG localhost59975 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:50:57,949 DEBUG localhost59975 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:50:57,949 DEBUG localhost59975 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:50:57,950 DEBUG localhost59975 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:50:57,986 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:50:58,001 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:50:58,042 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:50:58,042 DEBUG localhost59975 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:50:58,103 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:58,103 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:50:58,108 DEBUG localhost48927 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:50:58,180 DEBUG localhost59975 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:50:58,180 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:50:58,210 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:50:58,210 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:50:58,231 DEBUG localhost42591 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:50:58,241 DEBUG localhost33179 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:50:58,241 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:50:58,277 DEBUG localhost59975 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:50:58,282 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:50:58,647 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:50:58,657 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:50:58,673 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:50:58,759 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:50:58,983 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:50:59,094 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:50:59,134 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:50:59,159 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:50:59,398 DEBUG localhost42591 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:50:59,459 DEBUG localhost42591 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:51:00,016 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:51:00,028 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:51:01,368 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:51:01,430 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:51:01,445 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:51:01,562 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:51:01,963 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:51:02,583 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:02,618 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:51:03,673 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:51:03,825 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:51:03,860 DEBUG localhost43825 deleted localhost33179 from its temporaryNeighbor
+2020-09-30 19:51:03,894 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:51:03,894 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:51:04,421 DEBUG localhost59975 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:51:04,431 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:51:04,558 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:04,655 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:51:04,680 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:51:04,716 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:51:04,756 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:51:04,762 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:51:04,807 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:51:04,888 DEBUG localhost48927 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:51:05,412 DEBUG localhost33179 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:51:05,635 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:51:05,692 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:51:05,692 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:51:05,722 DEBUG localhost33179 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:05,732 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:05,819 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:51:05,971 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:51:06,073 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:51:06,883 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:51:06,883 DEBUG localhost48927 shutdown
+2020-09-30 19:51:06,912 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:51:06,938 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:51:06,963 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:51:07,218 DEBUG localhost43825 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:51:07,233 DEBUG localhost33179 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:07,234 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:51:07,275 DEBUG localhost43825 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:51:07,290 DEBUG localhost42591 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:51:07,290 DEBUG localhost59975 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:51:07,290 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:51:07,290 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:51:07,290 DEBUG localhost42591 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:51:07,387 DEBUG localhost43825 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:51:07,438 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:07,530 DEBUG localhost33179 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:07,581 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:51:07,718 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:51:07,754 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:51:07,769 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:51:07,769 DEBUG localhost42591 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:51:08,398 DEBUG localhost33179 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:51:08,408 DEBUG localhost43825 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:51:08,449 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:51:08,444 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:51:08,439 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:08,505 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:51:08,480 DEBUG localhost43825 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:51:08,516 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:51:08,480 DEBUG localhost33179 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:51:08,485 DEBUG localhost42591 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:51:08,521 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:08,749 DEBUG localhost33179 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:08,761 DEBUG localhost42591 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:51:09,749 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:51:08,771 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:51:08,786 DEBUG localhost43825 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:51:08,797 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:51:09,587 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:51:09,668 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:51:09,668 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:51:09,749 DEBUG localhost59975 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:51:08,761 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:51:09,775 DEBUG localhost42591 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:51:09,953 DEBUG localhost59975 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:51:10,299 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:51:09,963 DEBUG localhost43825 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:51:09,968 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:51:10,045 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:51:10,228 DEBUG localhost59975 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:51:10,258 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:51:10,284 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:51:09,963 DEBUG localhost42591 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:51:10,335 DEBUG localhost59975 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:51:10,360 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:51:10,411 DEBUG localhost59975 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:51:10,411 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:51:11,046 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:51:11,061 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:51:11,096 DEBUG localhost59975 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:51:11,107 DEBUG localhost33179 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:51:11,502 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:11,518 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:51:11,589 DEBUG localhost59975 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:51:11,625 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:51:11,640 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:51:11,691 DEBUG localhost42591 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:51:11,701 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:51:11,716 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:51:11,839 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:51:12,175 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:51:12,210 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:51:12,246 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:51:12,276 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:51:12,967 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:51:13,028 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:51:13,059 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:51:13,100 DEBUG localhost43825 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:51:13,126 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:51:13,126 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:13,182 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:51:13,263 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:51:13,815 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:51:13,841 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:13,897 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:51:13,953 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:51:14,694 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:51:14,724 DEBUG localhost43825 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:51:14,725 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:51:14,760 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:51:14,760 DEBUG localhost33179 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:51:14,796 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:51:14,801 DEBUG localhost33179 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:14,801 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:51:14,817 DEBUG localhost33179 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:14,822 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:51:14,827 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:14,833 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:51:14,833 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:51:14,930 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:51:14,930 DEBUG localhost43825 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:51:14,940 DEBUG localhost33179 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:15,168 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:51:15,194 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:51:15,209 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:51:15,839 DEBUG localhost43825 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:51:15,839 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:51:15,854 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:51:15,870 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:51:15,875 DEBUG localhost33179 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:15,885 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:51:15,900 DEBUG localhost42591 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:51:16,038 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:51:16,094 DEBUG localhost43825 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:51:16,175 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:51:16,170 DEBUG localhost33179 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:16,242 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:51:16,242 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:51:16,303 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:51:16,145 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:51:16,303 DEBUG localhost33179 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:16,308 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:51:16,369 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:51:16,491 DEBUG localhost33179 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:51:16,501 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:51:16,613 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:51:16,740 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:51:16,867 DEBUG localhost40201 is back online
+2020-09-30 19:51:16,867 DEBUG localhost33179 shutdown
+2020-09-30 19:51:18,641 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:51:18,682 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:51:19,335 DEBUG localhost40201 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:51:19,356 DEBUG localhost43825 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:51:19,356 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:51:19,422 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:51:20,381 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:51:20,407 DEBUG localhost40201 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:51:20,407 DEBUG localhost43825 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:51:21,648 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:51:21,674 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:51:22,500 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:51:22,515 DEBUG localhost43825 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:51:22,536 DEBUG localhost59975 deleted localhost43825 from its temporaryNeighbor
+2020-09-30 19:51:23,275 DEBUG localhost40201 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:51:24,386 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:51:24,503 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:51:24,534 DEBUG localhost40201 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:51:24,939 DEBUG localhost42591 deleted localhost59975 from its temporaryNeighbor
+2020-09-30 19:51:25,062 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:51:26,622 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:51:26,622 DEBUG localhost59975 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:51:26,632 DEBUG localhost59975 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:51:26,637 DEBUG localhost59975 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:51:26,622 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:51:26,642 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:51:26,703 DEBUG localhost43825 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:51:26,724 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:27,129 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:51:27,129 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:51:26,749 DEBUG localhost59975 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:51:27,135 DEBUG localhost48927 is back online
+2020-09-30 19:51:27,380 DEBUG localhost59975 shutdown
+2020-09-30 19:51:27,395 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:51:27,400 DEBUG localhost42591 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:51:27,401 DEBUG localhost43825 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:51:27,411 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:27,416 DEBUG localhost48927 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:51:27,528 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:51:28,260 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:51:28,265 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:51:28,316 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:51:28,610 DEBUG localhost48927 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:51:28,611 DEBUG localhost48927 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:51:28,667 DEBUG localhost40201 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:51:28,698 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:29,470 DEBUG localhost43825 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:51:29,526 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:29,541 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:51:29,709 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:51:29,751 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:51:30,578 DEBUG localhost42591 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:30,818 DEBUG localhost48927 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:51:30,925 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:51:32,460 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:51:33,023 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:51:33,141 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:51:33,141 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:51:33,171 DEBUG localhost42591 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:51:33,486 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:51:33,562 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:51:33,700 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:51:33,710 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:51:34,004 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:51:34,856 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:51:36,811 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:51:36,817 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:51:36,959 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:51:37,425 DEBUG localhost33179 shutdown
+2020-09-30 19:51:37,518 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:51:37,519 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:51:37,524 DEBUG localhost33179 is back online
+2020-09-30 19:51:37,848 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:51:37,939 DEBUG localhost42591 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:51:38,006 DEBUG localhost33179 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:51:38,041 DEBUG localhost42591 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:51:39,181 DEBUG localhost43825 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:51:40,974 DEBUG localhost48927 deleted localhost43825 from its temporaryNeighbor
+2020-09-30 19:51:41,536 DEBUG localhost43825 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:51:41,557 DEBUG localhost42591 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:51:41,567 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:51:41,598 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:51:43,031 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:51:43,941 DEBUG localhost40201 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:51:44,267 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:51:44,866 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:51:45,339 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:51:46,581 DEBUG localhost33179 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:51:46,535 DEBUG localhost48927 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:51:45,537 DEBUG localhost40201 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:51:46,586 DEBUG localhost43825 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:51:46,617 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:51:46,632 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:47,280 DEBUG localhost42591 shutdown
+2020-09-30 19:51:47,389 DEBUG localhost48927 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:51:47,415 DEBUG localhost59975 is back online
+2020-09-30 19:51:47,435 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:51:47,440 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:51:47,537 DEBUG localhost59975 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:51:47,537 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:48,100 DEBUG localhost43825 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:51:48,227 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:51:49,230 DEBUG localhost48927 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:51:49,342 DEBUG localhost40201 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:51:49,459 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:51:50,103 DEBUG localhost33179 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:51:50,464 DEBUG localhost33179 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:51:50,133 DEBUG localhost42591 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:51:50,143 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:51:50,143 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:51:50,245 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:51:50,275 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:51:50,291 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:51:50,322 DEBUG localhost48927 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:51:50,378 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:50,398 DEBUG localhost40201 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:51:50,418 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:51:50,123 DEBUG localhost48927 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:51:50,469 DEBUG localhost33179 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:51:50,490 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:51:50,515 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:51:50,622 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:51:50,638 DEBUG localhost48927 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:51:50,734 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:51:50,937 DEBUG localhost43825 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:51:51,813 DEBUG localhost43825 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:51:51,693 DEBUG localhost33179 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:51:51,772 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:51:51,783 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:51:51,788 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:51:54,575 DEBUG localhost59975 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:51:51,788 DEBUG localhost48927 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:51:51,788 DEBUG localhost59975 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:51:51,029 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:51:51,814 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:51:51,834 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:51:52,908 DEBUG localhost43825 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:51:54,251 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:51:54,271 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:51:54,575 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:51:51,788 DEBUG localhost48927 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:51:55,650 DEBUG localhost40201 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:51:55,736 DEBUG localhost33179 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:51:55,757 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:51:55,873 DEBUG localhost43825 pinged localhost42591
+2020-09-30 19:51:55,970 DEBUG localhost40201 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:51:56,310 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:51:56,524 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:51:56,732 DEBUG localhost48927 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:51:56,743 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:51:56,743 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:51:56,752 DEBUG localhost43825 shutdown
+2020-09-30 19:51:56,773 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:51:56,778 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:51:56,798 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:51:56,819 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:51:56,829 DEBUG localhost33179 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:51:56,855 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:51:57,326 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:51:57,459 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:51:57,464 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:51:57,464 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:51:57,520 DEBUG localhost40201 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:51:57,566 DEBUG localhost33179 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:51:58,613 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:51:58,342 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:51:58,689 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:51:58,602 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:51:58,327 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:51:58,669 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:51:58,602 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:51:58,710 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:51:58,838 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:51:58,730 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:51:58,838 DEBUG localhost59975 deleted localhost33179 from its temporaryNeighbor
+2020-09-30 19:51:58,741 DEBUG localhost33179 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:51:58,751 DEBUG localhost33179 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:51:58,715 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:51:58,741 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:51:58,874 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:51:58,925 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:51:58,930 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:51:58,971 DEBUG localhost40201 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:51:59,138 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:51:59,255 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:51:59,383 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:51:59,545 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:51:59,760 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:51:59,791 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:51:59,831 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:51:59,851 DEBUG localhost33179 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:51:59,892 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:51:59,923 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:51:59,933 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:52:00,945 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:52:01,001 DEBUG localhost40201 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:52:01,072 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:52:01,072 DEBUG localhost59975 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:52:01,108 DEBUG localhost40201 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:52:01,164 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:52:01,220 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:52:01,306 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:52:01,311 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:52:01,321 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:01,519 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:52:02,213 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:52:02,226 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:52:02,839 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:52:02,839 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:52:02,975 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:52:02,981 DEBUG localhost59975 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:52:03,411 DEBUG localhost59975 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:52:03,411 DEBUG localhost40201 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:52:03,782 DEBUG localhost40201 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:03,787 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:52:03,863 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:52:03,874 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:52:03,884 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:52:04,047 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:52:04,058 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:52:04,078 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:52:05,548 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:52:05,619 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:52:05,634 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:52:05,822 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:52:05,837 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:52:05,848 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:52:05,904 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:52:05,924 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:52:05,934 DEBUG localhost40201 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:52:06,077 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:52:06,087 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:52:06,148 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:52:06,382 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:52:06,382 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:52:06,651 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:52:06,661 DEBUG localhost42591 shutdown
+2020-09-30 19:52:06,915 DEBUG localhost59975 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:52:06,931 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:07,150 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:52:07,043 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:52:07,043 DEBUG localhost40201 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:07,247 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:52:07,237 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:52:06,946 DEBUG localhost59975 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:07,262 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:52:08,191 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:52:08,073 DEBUG localhost42591 is back online
+2020-09-30 19:52:08,073 DEBUG localhost33179 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:52:08,114 DEBUG localhost59975 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:52:08,124 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:52:08,135 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:52:08,160 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:52:08,063 DEBUG localhost40201 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:52:08,491 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:52:08,308 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:52:08,319 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:52:08,324 DEBUG localhost42591 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:52:08,491 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:52:08,196 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:52:08,609 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:52:08,512 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:52:08,583 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:52:08,599 DEBUG localhost59975 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:52:08,604 DEBUG localhost33179 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:52:08,507 DEBUG localhost40201 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:08,614 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:52:08,620 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:52:08,630 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:52:08,645 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:52:08,655 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:08,757 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:52:08,778 DEBUG localhost40201 pinged localhost43825
+2020-09-30 19:52:09,213 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:52:09,219 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:52:09,244 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:52:09,412 DEBUG localhost33179 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:52:09,483 DEBUG localhost40201 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:52:09,488 DEBUG localhost48927 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:52:09,524 DEBUG localhost42591 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:52:09,798 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:52:09,824 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:52:09,839 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:52:09,997 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:52:10,621 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:52:10,642 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:52:10,733 DEBUG localhost42591 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:52:10,794 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:52:11,383 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:52:11,393 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:11,720 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:52:11,598 DEBUG localhost59975 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:11,608 DEBUG localhost59975 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:52:11,639 DEBUG localhost42591 added localhost59975 to its bidirectionalNeighbors
+2020-09-30 19:52:11,598 DEBUG localhost40201 pinged localhost59975
+2020-09-30 19:52:11,730 DEBUG localhost59975 pinged localhost43825
+2020-09-30 19:52:11,735 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:52:11,883 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:12,726 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:52:12,258 DEBUG localhost42591 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:52:12,705 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:52:12,731 DEBUG localhost42591 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:52:12,747 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:52:12,859 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:52:12,874 DEBUG localhost42591 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:52:13,133 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:13,553 DEBUG localhost42591 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:52:14,147 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:52:15,379 DEBUG localhost40201 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:52:15,384 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:52:15,410 DEBUG localhost40201 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:52:16,010 DEBUG localhost40201 pinged localhost48927
+2020-09-30 19:52:15,511 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:52:15,577 DEBUG localhost42591 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:52:15,786 DEBUG localhost40201 pinged localhost33179
+2020-09-30 19:52:15,786 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:52:16,010 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:52:15,445 DEBUG localhost48927 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:52:16,204 DEBUG localhost42591 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:52:16,309 DEBUG localhost40201 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:52:16,584 DEBUG localhost40201 shutdown
+2020-09-30 19:52:17,055 DEBUG localhost43825 is back online
+2020-09-30 19:52:17,082 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:52:17,322 DEBUG localhost48927 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:52:17,327 DEBUG localhost42591 added localhost40201 to its bidirectionalNeighbors
+2020-09-30 19:52:17,327 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:17,327 DEBUG localhost40201 pinged localhost42591
+2020-09-30 19:52:17,342 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:52:18,271 DEBUG localhost43825 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:52:18,302 DEBUG localhost42591 pinged localhost40201
+2020-09-30 19:52:18,423 DEBUG localhost48927 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:52:18,454 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:52:18,702 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:52:18,804 DEBUG localhost40201 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:52:19,022 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:52:20,131 DEBUG localhost43825 added localhost40201 to its unidirectionalNeighbors
+2020-09-30 19:52:20,781 DEBUG localhost42591 deleted localhost43825 from its recentlyheardNeighbors
+2020-09-30 19:52:20,857 DEBUG localhost42591 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:22,435 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:52:20,943 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:52:22,450 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:52:22,176 DEBUG localhost59975 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:52:22,268 DEBUG localhost43825 added localhost59975 to its unidirectionalNeighbors
+2020-09-30 19:52:22,425 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:52:22,425 DEBUG localhost48927 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:52:20,857 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:52:21,319 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:52:23,681 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:52:23,686 DEBUG localhost59975 deleted localhost42591 from its temporaryNeighbor
+2020-09-30 19:52:23,925 DEBUG localhost43825 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:52:24,138 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:52:24,925 DEBUG localhost43825 pinged localhost59975
+2020-09-30 19:52:27,907 DEBUG localhost43825 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:52:26,016 DEBUG localhost48927 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:52:26,036 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:27,933 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:52:26,518 DEBUG localhost48927 added localhost33179 to its unidirectionalNeighbors
+2020-09-30 19:52:27,778 DEBUG localhost42591 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:52:25,791 DEBUG localhost33179 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:52:27,917 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:52:26,462 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:52:27,943 DEBUG localhost48927 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:28,774 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:52:27,979 DEBUG localhost48927 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:52:28,323 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:52:28,460 DEBUG localhost33179 added localhost43825 to its unidirectionalNeighbors
+2020-09-30 19:52:28,734 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:52:28,765 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:52:27,953 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:52:28,827 DEBUG localhost43825 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:52:30,813 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:52:30,770 DEBUG localhost48927 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:52:30,775 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:52:30,859 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:52:29,645 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:52:30,775 DEBUG localhost42591 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:52:30,911 DEBUG localhost42591 deleted localhost33179 from its recentlyheardNeighbors
+2020-09-30 19:52:30,941 DEBUG localhost42591 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:52:30,941 DEBUG localhost42591 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:52:30,880 DEBUG localhost59975 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:52:30,905 DEBUG localhost33179 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:52:31,144 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:52:30,921 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:52:31,165 DEBUG localhost33179 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:52:30,875 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:52:31,242 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:52:30,946 DEBUG localhost42591 deleted localhost48927 from its recentlyheardNeighbors
+2020-09-30 19:52:30,865 DEBUG localhost59975 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:52:31,160 DEBUG localhost33179 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:52:32,652 DEBUG localhost33179 pinged localhost48927
+2020-09-30 19:52:30,941 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:52:31,262 DEBUG localhost42591 added localhost43825 to its temporaryNeighbor
+2020-09-30 19:52:31,308 DEBUG localhost43825 added localhost33179 to its bidirectionalNeighbors
+2020-09-30 19:52:32,032 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:52:32,118 DEBUG localhost33179 added localhost42591 to its bidirectionalNeighbors
+2020-09-30 19:52:32,609 DEBUG localhost43825 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:52:32,640 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:52:30,880 DEBUG localhost43825 added localhost33179 to its temporaryNeighbor
+2020-09-30 19:52:34,381 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:52:32,698 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:52:33,625 DEBUG localhost42591 pinged localhost43825
+2020-09-30 19:52:33,651 DEBUG localhost48927 pinged localhost59975
+2020-09-30 19:52:34,614 DEBUG localhost48927 deleted localhost42591 from its recentlyheardNeighbors
+2020-09-30 19:52:32,673 DEBUG localhost33179 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:52:34,452 DEBUG localhost42591 added localhost59975 to its temporaryNeighbor
+2020-09-30 19:52:34,325 DEBUG localhost43825 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:52:34,624 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:52:35,421 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:52:35,395 DEBUG localhost42591 pinged localhost59975
+2020-09-30 19:52:35,404 DEBUG localhost43825 added localhost48927 to its bidirectionalNeighbors
+2020-09-30 19:52:34,640 DEBUG localhost33179 pinged localhost40201
+2020-09-30 19:52:35,426 DEBUG localhost59975 pinged localhost48927
+2020-09-30 19:52:35,471 DEBUG localhost33179 added localhost43825 to its bidirectionalNeighbors
+2020-09-30 19:52:35,481 DEBUG localhost48927 added localhost42591 to its temporaryNeighbor
+2020-09-30 19:52:36,392 DEBUG localhost48927 pinged localhost42591
+2020-09-30 19:52:36,120 DEBUG localhost48927 pinged localhost43825
+2020-09-30 19:52:36,196 DEBUG localhost48927 added localhost42591 to its unidirectionalNeighbors
+2020-09-30 19:52:36,201 DEBUG localhost43825 pinged localhost33179
+2020-09-30 19:52:36,211 DEBUG localhost42591 added localhost48927 to its unidirectionalNeighbors
+2020-09-30 19:52:36,227 DEBUG localhost42591 added localhost48927 to its temporaryNeighbor
+2020-09-30 19:52:36,530 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:52:36,095 DEBUG localhost59975 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:52:36,556 DEBUG localhost59975 pinged localhost40201
+2020-09-30 19:52:36,478 DEBUG localhost33179 pinged localhost59975
+2020-09-30 19:52:36,499 DEBUG localhost42591 pinged localhost33179
+2020-09-30 19:52:36,509 DEBUG localhost48927 pinged localhost33179
+2020-09-30 19:52:36,364 DEBUG localhost59975 pinged localhost33179
+2020-09-30 19:52:36,392 DEBUG localhost48927 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:52:36,602 DEBUG localhost43825 pinged localhost48927
+2020-09-30 19:52:36,613 DEBUG localhost33179 pinged localhost42591
+2020-09-30 19:52:36,618 DEBUG localhost59975 pinged localhost42591
+2020-09-30 19:52:36,618 DEBUG localhost42591 pinged localhost48927
+2020-09-30 19:52:36,649 DEBUG localhost48927 pinged localhost40201
+2020-09-30 19:52:36,669 DEBUG localhost43825 deleted localhost40201 from its recentlyheardNeighbors
+2020-09-30 19:52:36,670 DEBUG localhost43825 added localhost40201 to its temporaryNeighbor
+2020-09-30 19:52:36,670 DEBUG localhost33179 pinged localhost43825
+2020-09-30 19:52:36,671 DEBUG localhost43825 deleted localhost59975 from its recentlyheardNeighbors
+2020-09-30 19:52:36,671 DEBUG localhost43825 pinged localhost40201
+2020-09-30 19:52:36,671 DEBUG localhost33179 pinged localhost43825
